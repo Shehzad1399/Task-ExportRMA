@@ -1,3 +1,3 @@
 # Task-ExportRMA
 
-## Created a new export entity type 'Returns' to export RMA details (i.e., website ID)
+### Created a new export entity type 'Returns' with entity attributes (i.e., website ID)
